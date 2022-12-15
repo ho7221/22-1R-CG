@@ -1,0 +1,7 @@
+Executable : /Users/hokuma/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/hokuma/Desktop/CG/app/.cxx/Debug/q6s61309/arm64-v8a
+native-lib
+jvmArgs : 
+

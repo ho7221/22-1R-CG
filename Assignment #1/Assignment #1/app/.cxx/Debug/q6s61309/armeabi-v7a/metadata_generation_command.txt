@@ -1,0 +1,24 @@
+                    Executable : /Users/hokuma/Library/Android/sdk/cmake/3.18.1/bin/cmake
+arguments : 
+-H/Users/hokuma/Desktop/CG/app
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=16
+-DANDROID_PLATFORM=android-16
+-DANDROID_ABI=armeabi-v7a
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DANDROID_NDK=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600
+-DCMAKE_ANDROID_NDK=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600
+-DCMAKE_TOOLCHAIN_FILE=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/hokuma/Library/Android/sdk/cmake/3.18.1/bin/ninja
+-DCMAKE_CXX_FLAGS=-std=c++11
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/hokuma/Desktop/CG/app/build/intermediates/cxx/Debug/q6s61309/obj/armeabi-v7a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/hokuma/Desktop/CG/app/build/intermediates/cxx/Debug/q6s61309/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/hokuma/Desktop/CG/app/.cxx/Debug/q6s61309/armeabi-v7a
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

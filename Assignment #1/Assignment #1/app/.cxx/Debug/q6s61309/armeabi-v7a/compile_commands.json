@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/Users/hokuma/Desktop/CG/app/.cxx/Debug/q6s61309/armeabi-v7a",
+  "command": "/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++11 -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/main.cpp.o -c /Users/hokuma/Desktop/CG/app/src/main/cpp/main.cpp",
+  "file": "/Users/hokuma/Desktop/CG/app/src/main/cpp/main.cpp"
+},
+{
+  "directory": "/Users/hokuma/Desktop/CG/app/.cxx/Debug/q6s61309/armeabi-v7a",
+  "command": "/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++11 -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/asset.cpp.o -c /Users/hokuma/Desktop/CG/app/src/main/cpp/asset.cpp",
+  "file": "/Users/hokuma/Desktop/CG/app/src/main/cpp/asset.cpp"
+},
+{
+  "directory": "/Users/hokuma/Desktop/CG/app/.cxx/Debug/q6s61309/armeabi-v7a",
+  "command": "/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++11 -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/scene.cpp.o -c /Users/hokuma/Desktop/CG/app/src/main/cpp/scene.cpp",
+  "file": "/Users/hokuma/Desktop/CG/app/src/main/cpp/scene.cpp"
+},
+{
+  "directory": "/Users/hokuma/Desktop/CG/app/.cxx/Debug/q6s61309/armeabi-v7a",
+  "command": "/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++11 -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/program.cpp.o -c /Users/hokuma/Desktop/CG/app/src/main/cpp/program.cpp",
+  "file": "/Users/hokuma/Desktop/CG/app/src/main/cpp/program.cpp"
+},
+{
+  "directory": "/Users/hokuma/Desktop/CG/app/.cxx/Debug/q6s61309/armeabi-v7a",
+  "command": "/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++11 -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/shader.cpp.o -c /Users/hokuma/Desktop/CG/app/src/main/cpp/shader.cpp",
+  "file": "/Users/hokuma/Desktop/CG/app/src/main/cpp/shader.cpp"
+},
+{
+  "directory": "/Users/hokuma/Desktop/CG/app/.cxx/Debug/q6s61309/armeabi-v7a",
+  "command": "/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++11 -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/camera.cpp.o -c /Users/hokuma/Desktop/CG/app/src/main/cpp/camera.cpp",
+  "file": "/Users/hokuma/Desktop/CG/app/src/main/cpp/camera.cpp"
+},
+{
+  "directory": "/Users/hokuma/Desktop/CG/app/.cxx/Debug/q6s61309/armeabi-v7a",
+  "command": "/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++11 -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/light.cpp.o -c /Users/hokuma/Desktop/CG/app/src/main/cpp/light.cpp",
+  "file": "/Users/hokuma/Desktop/CG/app/src/main/cpp/light.cpp"
+},
+{
+  "directory": "/Users/hokuma/Desktop/CG/app/.cxx/Debug/q6s61309/armeabi-v7a",
+  "command": "/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++11 -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/object.cpp.o -c /Users/hokuma/Desktop/CG/app/src/main/cpp/object.cpp",
+  "file": "/Users/hokuma/Desktop/CG/app/src/main/cpp/object.cpp"
+},
+{
+  "directory": "/Users/hokuma/Desktop/CG/app/.cxx/Debug/q6s61309/armeabi-v7a",
+  "command": "/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++11 -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/material.cpp.o -c /Users/hokuma/Desktop/CG/app/src/main/cpp/material.cpp",
+  "file": "/Users/hokuma/Desktop/CG/app/src/main/cpp/material.cpp"
+}
+]

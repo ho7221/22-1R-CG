@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/hokuma/Desktop/CG/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/hokuma/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/hokuma/Desktop/CG/app/.cxx/Debug/q6s61309/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/hokuma/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/hokuma/Desktop/CG/app/.cxx/Debug/q6s61309/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "native-lib",
+      "output": "/Users/hokuma/Desktop/CG/app/build/intermediates/cxx/Debug/q6s61309/obj/arm64-v8a/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/hokuma/Library/Android/sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

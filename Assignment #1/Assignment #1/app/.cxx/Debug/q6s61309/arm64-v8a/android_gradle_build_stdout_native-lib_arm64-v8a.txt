@@ -1,0 +1,3 @@
+ninja: Entering directory `/Users/hokuma/Desktop/CG/app/.cxx/Debug/q6s61309/arm64-v8a'
+[1/2] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/scene.cpp.o
+[2/2] Linking CXX shared library ../../../../build/intermediates/cxx/Debug/q6s61309/obj/arm64-v8a/libnative-lib.so
